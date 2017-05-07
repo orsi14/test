@@ -1,0 +1,17 @@
+[core]
+	editor = notepad
+[push]
+	default = upstream
+[merge]
+	tool = kdiff3
+	conflictstyle = diff3
+[mergetool "kdiff3"]
+	path = c:/Program Files/KDiff3/kdiff3.exe
+[diff]
+	tool = kdiff3
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = c:/Program Files/KDiff3/kdiff3.exe
+[user]
+	email = mark.orsi@gmail.com
+	name = Mark O
