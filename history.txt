@@ -1,0 +1,27 @@
+   39  git config --global user.email "mark.orsi@gmail.com"
+   40  git config --global user.name "Mark O"
+   44  git config --global core.editor "C:\Program \Files\ (x86)\Notepad++\notepad++.exe" -n -w
+   45  git config --global core.editor "C:\Program \Files\ (x86)\Notepad++\notepad++.exe"
+   49  git config --global core.editor "C:/Program\ Files\ \(x86\)/Notepad++/notepad++.exe" -n -w
+   51  git config --global core.editor "C:/Program\ Files\ \(x86\)/Notepad++/notepad++.exe -n"
+   90  vim .gitconfig
+  270  git config --global --edit
+  370  git config --global core.editor ""
+  372  git config --global core.editor C:/Users/Mark/npp.bat
+  390  git config --global core.editor notepad
+  397  vim .gitconfig
+  398  vim .gitconfig
+  471  git config
+  472  git config --get-al
+  473  git config --get-all
+  474  git config -l
+  475  git config -e
+  479  cat .gitconfig 
+  487  cp ~/.gitconfig ./.gitconfig
+  489  git add .gitconfig 
+  498  git config -l
+  499  git config-global
+  501  history | grep config
+  502  git history | grep config | > history.txt
+  503  history | grep config | > history.txt
+  506  history | grep config > history.txt
